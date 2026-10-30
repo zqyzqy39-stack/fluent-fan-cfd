@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fluent风机CFD工作流"
+  short_description: "从CAD空气域到Fluent后台求解、收敛核验和双单位性能曲线"
+  default_prompt: "使用 $fluent-fan-cfd，按现有CAD开展单台风机Fluent仿真，核对旋转接口、求解收敛并交付真实结果。"

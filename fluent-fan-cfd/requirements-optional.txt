@@ -1,0 +1,4 @@
+# Only needed for the named optional operations; use versions compatible with your Python.
+h5py
+numpy
+scipy

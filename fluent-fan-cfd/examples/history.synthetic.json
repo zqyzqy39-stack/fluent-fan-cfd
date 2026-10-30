@@ -1,0 +1,50 @@
+{
+  "synthetic": true,
+  "history": [
+    {
+      "native_iteration": 600,
+      "order": "second-order",
+      "residuals": [
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05
+      ],
+      "mass_imbalance_fraction": 0.0001,
+      "static_pressure_difference_Pa": 2000,
+      "single_arm_flow_m3h": 60
+    },
+    {
+      "native_iteration": 700,
+      "order": "second-order",
+      "residuals": [
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05
+      ],
+      "mass_imbalance_fraction": 0.0001,
+      "static_pressure_difference_Pa": 2001,
+      "single_arm_flow_m3h": 60
+    },
+    {
+      "native_iteration": 800,
+      "order": "second-order",
+      "residuals": [
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05,
+        1e-05
+      ],
+      "mass_imbalance_fraction": 0.0001,
+      "static_pressure_difference_Pa": 2002,
+      "single_arm_flow_m3h": 60
+    }
+  ]
+}

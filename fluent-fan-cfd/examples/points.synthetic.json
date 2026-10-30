@@ -1,0 +1,26 @@
+{
+  "synthetic": true,
+  "points": [
+    {
+      "single_arm_flow_m3h": 10,
+      "static_pressure_difference_Pa": 1200,
+      "converged": false,
+      "native_reopen_verified": false,
+      "source_directory": "synthetic-test-data"
+    },
+    {
+      "single_arm_flow_m3h": 25,
+      "static_pressure_difference_Pa": 1150,
+      "converged": false,
+      "native_reopen_verified": false,
+      "source_directory": "synthetic-test-data"
+    },
+    {
+      "single_arm_flow_m3h": 50,
+      "static_pressure_difference_Pa": 1000,
+      "converged": false,
+      "native_reopen_verified": false,
+      "source_directory": "synthetic-test-data"
+    }
+  ]
+}
